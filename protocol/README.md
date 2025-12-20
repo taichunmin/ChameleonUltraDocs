@@ -45,7 +45,7 @@ E.g. LRC3(DATA) == LRC3(whole frame)
 
 For the request and response data payload of individual commands, please refer to the following documentation of that specific command.
 
-See [Guidelines](#new-data-payloads-guidelines-for-developers) for add new command and it's data payloads.
+See [Guidelines](#new-data-payloads-guidelines-for-developers) for add new command and its data payloads.
 
 Beware, slots in protocol count from 0 to 7 (and from 1 to 8 in the CLI...).
 
